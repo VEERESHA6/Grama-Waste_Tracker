@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಗ್ರಾಮ-ತ್ಯಾಜ್ಯ ಟ್ರ್ಯಾಕರ್</string>
+    <string name="tractor_arrival_alert">ಟ್ರ್ಯಾಕ್ಟರ್ %1$d ಮೀಟರ್ ದೂರದಲ್ಲಿದೆ!</string>
+    <string name="report_blackspot">ಕಪ್ಪುಚುಕ್ಕೆ ವರದಿ ಮಾಡಿ</string>
+    <string name="report_dialog_title">ಕಪ್ಪುಚುಕ್ಕೆ ವರದಿ</string>
+    <string name="report_dialog_text">ಅಕ್ರಮವಾಗಿ ಸುರಿದ ಕಸದ ಫೋಟೋ ಮತ್ತು ಜಿಪಿಎಸ್ ಅಪ್‌ಲೋಡ್ ಮಾಡುವುದೇ?</string>
+    <string name="confirm">ಖಚಿತಪಡಿಸಿ</string>
+    <string name="cancel">ರದ್ದುಗೊಳಿಸಿ</string>
+    <string name="live_location">ಲೈವ್ ಸ್ಥಳ</string>
+    <string name="kachara_gaadi">ಕಸದ ಗಾಡಿ</string>
+
+    <!-- Auth -->
+    <string name="login_title">ಮತ್ತೆ ಸ್ವಾಗತ</string>
+    <string name="login_subtitle">ತ್ಯಾಜ್ಯ ಸಂಗ್ರಹಣೆಯನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡಲು ಸೈನ್ ಇನ್ ಮಾಡಿ</string>
+    <string name="register_title">GWT ಸೇರಿ</string>
+    <string name="register_subtitle">ನಿಮ್ಮ ಪಾತ್ರವನ್ನು ಆರಿಸಿ ಮತ್ತು ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="email">ಇಮೇಲ್</string>
+    <string name="password">ಪಾಸ್ವರ್ಡ್</string>
+    <string name="full_name">ಪೂರ್ಣ ಹೆಸರು</string>
+    <string name="sign_in">ಸೈನ್ ಇನ್</string>
+    <string name="register">ನೋಂದಾಯಿಸಿ</string>
+    <string name="create_account">ಖಾತೆ ರಚಿಸಿ</string>
+    <string name="forgot_password">ಪಾಸ್ವರ್ಡ್ ಮರೆತಿದ್ದೀರಾ?</string>
+    <string name="role_resident">ನಿವಾಸಿ</string>
+    <string name="role_driver">ಚಾಲಕ</string>
+    <string name="role_admin">ನಿರ್ವಾಹಕ</string>
+    <string name="tractor_id_label">ಟ್ರ್ಯಾಕ್ಟರ್ ಐಡಿ (ಉದಾ: Tractor_001)</string>
+    <string name="no_account">ಹೊಸಬರೇ? ಇಲ್ಲಿ ನೋಂದಾಯಿಸಿ</string>
+    <string name="already_account">ಈಗಾಗಲೇ ಖಾತೆ ಇದೆಯೇ? ಸೈನ್ ಇನ್ ಮಾಡಿ</string>
+    <string name="reset_password_title">ಪಾಸ್ವರ್ಡ್ ಮರುಹೊಂದಿಸಿ</string>
+    <string name="reset_password_text">ಮರುಹೊಂದಿಸುವ ಲಿಂಕ್ ಪಡೆಯಲು ನಿಮ್ಮ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ನಮೂದಿಸಿ.</string>
+    <string name="send_link">ಲಿಂಕ್ ಕಳುಹಿಸಿ</string>
+
+    <!-- Navigation -->
+    <string name="nav_tracker">ಟ್ರ್ಯಾಕರ್</string>
+    <string name="nav_guide">ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="nav_admin">ನಿರ್ವಾಹಕ</string>
+
+    <!-- Guide -->
+    <string name="guide_title">ಗ್ರಾಮ ತ್ಯಾಜ್ಯ ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="guide_subtitle">ನಮ್ಮ ಪಂಚಾಯತ್ ಅನ್ನು ಸ್ವಚ್ಛವಾಗಿ ಮತ್ತು ಹಸಿರಾಗಿಡಲು ನಿಮ್ಮ ತ್ಯಾಜ್ಯವನ್ನು ಪರಿಣಾಮಕಾರಿಯಾಗಿ ಪ್ರತ್ಯೇಕಿಸಿ.</string>
+    <string name="wet_waste">ಹಸಿ ಕಸ</string>
+    <string name="dry_waste">ಒಣ ಕಸ</string>
+    <string name="hazardous_waste">ಅಪಾಯಕಾರಿ ತ್ಯಾಜ್ಯ</string>
+    <string name="biodegradable">ಜೈವಿಕ ವಿಘಟನೀಯ ವಸ್ತುಗಳು</string>
+    <string name="recyclable">ಮರುಬಳಕೆ ಮಾಡಬಹುದಾದ ವಸ್ತುಗಳು</string>
+    <string name="dangerous">ಅಪಾಯಕಾರಿ ವಸ್ತುಗಳು</string>
+    <string name="logout">ಲಾಗ್ ಔಟ್</string>
+
+    <!-- Map -->
+    <string name="stop_tracking">ಟ್ರ್ಯಾಕಿಂಗ್ ನಿಲ್ಲಿಸಿ</string>
+    <string name="start_collection">ಸಂಗ್ರಹಣೆ ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="report_trash">ಕಸ ವರದಿ ಮಾಡಿ</string>
+    <string name="description">ವಿವರಣೆ</string>
+    <string name="enter_description">ಕಸದ ಬಗ್ಗೆ ವಿವರಗಳನ್ನು ನಮೂದಿಸಿ...</string>
+    <string name="tractor_nearby">ಟ್ರ್ಯಾಕ್ಟರ್ ಹತ್ತಿರದಲ್ಲಿದೆ!</string>
+    <string name="tractor_status">ಕಸದ ಗಾಡಿ ಸ್ಥಿತಿ</string>
+    <string name="meters_away">%1$d ಮೀಟರ್ ದೂರದಲ್ಲಿದೆ</string>
+    <string name="km_away">%1$.1f ಕಿ.ಮೀ ದೂರದಲ್ಲಿದೆ</string>
+    <string name="submitting_report">ವರದಿ ಸಲ್ಲಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="wait_moment">ದಯವಿಟ್ಟು ಒಂದು ಕ್ಷಣ ಕಾಯಿರಿ</string>
+    <string name="confirm_report">ವರದಿ ಖಚಿತಪಡಿಸಿ</string>
+    <string name="confirm_report_text">ಈ ಸ್ಥಳದಲ್ಲಿ ಕಸದ ಕಪ್ಪುಚುಕ್ಕೆಯನ್ನು ವರದಿ ಮಾಡಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?</string>
+    <string name="open_camera">ಕ್ಯಾಮೆರಾ ತೆರೆಯಿರಿ</string>
+
+    <!-- Admin -->
+    <string name="admin_dashboard">ನಿರ್ವಾಹಕ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+    <string name="no_reports">ಯಾವುದೇ ವರದಿಗಳು ಕಂಡುಬಂದಿಲ್ಲ</string>
+    <string name="take_action">ಕ್ರಮ ತೆಗೆದುಕೊಳ್ಳಿ</string>
+    <string name="update_status">ವರದಿ ಸ್ಥಿತಿ ನವೀಕರಿಸಿ</string>
+    <string name="admin_comment">ನಿರ್ವಾಹಕರ ಕಾಮೆಂಟ್</string>
+    <string name="select_status">ಹೊಸ ಸ್ಥಿತಿಯನ್ನು ಆರಿಸಿ:</string>
+    <string name="pending">ಬಾಕಿ ಇದೆ</string>
+    <string name="cleaning">ಶುಚಿಗೊಳಿಸಲಾಗುತ್ತಿದೆ</string>
+    <string name="cleaned">ಶುಚಿಗೊಳಿಸಲಾಗಿದೆ</string>
+
+    <!-- Permissions -->
+    <string name="perm_msg">ತ್ಯಾಜ್ಯವನ್ನು ಪತ್ತೆಹಚ್ಚಲು ಪ್ರಾರಂಭಿಸಲು ದಯವಿಟ್ಟು ಅನುಮತಿಗಳನ್ನು ನೀಡಿ</string>
+    <string name="grant_perm">ಅನುಮತಿಗಳನ್ನು ನೀಡಿ</string>
+
+    <!-- Language -->
+    <string name="change_language">ಭಾಷೆ ಬದಲಿಸಿ</string>
+</resources>

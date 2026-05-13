@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191833940416",
+    "project_id": "gwt1-b8431",
+    "storage_bucket": "gwt1-b8431.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191833940416:android:224e2e98e36e6d3663a825",
+        "android_client_info": {
+          "package_name": "com.example.gwt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAbQ9luWmmvwajn9ep3_flHsi-0E2469A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

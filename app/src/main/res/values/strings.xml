@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Grama-Waste Tracker</string>
+    <string name="tractor_arrival_alert">The tractor is %1$d meters away!</string>
+    <string name="report_blackspot">Report Blackspot</string>
+    <string name="report_dialog_title">Report Blackspot</string>
+    <string name="report_dialog_text">Upload photo and GPS of illegal dumping?</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="live_location">Live Location</string>
+    <string name="kachara_gaadi">Kachara Gaadi</string>
+
+    <!-- Auth -->
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to track waste collection</string>
+    <string name="register_title">Join GWT</string>
+    <string name="register_subtitle">Choose your role and get started</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="create_account">Create Account</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="role_resident">Resident</string>
+    <string name="role_driver">Driver</string>
+    <string name="role_admin">Admin</string>
+    <string name="tractor_id_label">Tractor ID (e.g. Tractor_001)</string>
+    <string name="no_account">New to the app? Register here</string>
+    <string name="already_account">Already have an account? Sign In</string>
+    <string name="reset_password_title">Reset Password</string>
+    <string name="reset_password_text">Enter your email address to receive a reset link.</string>
+    <string name="send_link">Send Link</string>
+
+    <!-- Navigation -->
+    <string name="nav_tracker">Tracker</string>
+    <string name="nav_guide">Guide</string>
+    <string name="nav_admin">Admin</string>
+
+    <!-- Guide -->
+    <string name="guide_title">Village Waste Guide</string>
+    <string name="guide_subtitle">Separate your waste effectively to help our Panchayat maintain a clean and green environment.</string>
+    <string name="wet_waste">Wet Waste (ಹಸಿ ಕಸ)</string>
+    <string name="dry_waste">Dry Waste (ಒಣ ಕಸ)</string>
+    <string name="hazardous_waste">Hazardous Waste</string>
+    <string name="biodegradable">Biodegradable Items</string>
+    <string name="recyclable">Recyclable Items</string>
+    <string name="dangerous">Dangerous Items</string>
+    <string name="logout">Logout</string>
+
+    <!-- Map -->
+    <string name="stop_tracking">Stop Tracking</string>
+    <string name="start_collection">Start Collection</string>
+    <string name="report_trash">Report Trash</string>
+    <string name="description">Description</string>
+    <string name="enter_description">Enter details about the garbage...</string>
+    <string name="tractor_nearby">Tractor is Nearby!</string>
+    <string name="tractor_status">Kachara Gaadi Status</string>
+    <string name="meters_away">%1$d meters away</string>
+    <string name="km_away">%1$.1f km away</string>
+    <string name="submitting_report">Submitting Report...</string>
+    <string name="wait_moment">Please wait a moment</string>
+    <string name="confirm_report">Confirm Report</string>
+    <string name="confirm_report_text">Are you sure you want to report a garbage blackspot at this location?</string>
+    <string name="open_camera">Open Camera</string>
+
+    <!-- Admin -->
+    <string name="admin_dashboard">Admin Dashboard</string>
+    <string name="no_reports">No reports found</string>
+    <string name="take_action">Take Action</string>
+    <string name="update_status">Update Report Status</string>
+    <string name="admin_comment">Admin Comment</string>
+    <string name="select_status">Select New Status:</string>
+    <string name="pending">Pending</string>
+    <string name="cleaning">Cleaning</string>
+    <string name="cleaned">Cleaned</string>
+
+    <!-- Permissions -->
+    <string name="perm_msg">Please grant permissions to start tracking waste</string>
+    <string name="grant_perm">Grant Permissions</string>
+
+    <!-- Language -->
+    <string name="change_language">Change Language</string>
+</resources>
